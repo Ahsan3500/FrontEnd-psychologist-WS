@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lahore-psychologist.vercel.app/sitemap.xml
